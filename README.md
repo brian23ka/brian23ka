@@ -9,13 +9,17 @@
 - 🔭 I’m currently working on: Wavify, Triplay, Pure Scents, and Expanse Tracker
 - 🌱 I’m learning: advanced distributed systems and ML-driven product features
 - 👯 I’m open to collaborating on: backend systems, developer tooling, and scalable web apps
-- 💬 Ask me about: system design, full‑stack development, and performance optimization
-- 📫 Reach me: https://github.com/brian23ka
+-- 💬 Ask me about: system design, full‑stack development, and performance optimization
+-- 📫 Reach me: https://github.com/brian23ka • Portfolio: https://your-portfolio.com
 
 ## Skills
 
 - Languages: JavaScript, TypeScript, Python
 - Frameworks & Tools: React, Node.js, Docker, PostgreSQL, Git
+
+### Languages I use
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Selected Projects
 

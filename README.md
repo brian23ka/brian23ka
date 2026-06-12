@@ -1,7 +1,3 @@
-<!--
-  GitHub Profile README — personalized for Brian Kaloki Ngenye (brian23ka)
--->
-
 
 ![Brian Kaloki Ngenye](https://img.shields.io/badge/-Brian%20Kaloki%20Ngenye-00FFF7?style=for-the-badge&logo=github&logoColor=black)
 
@@ -39,6 +35,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian23ka&layout=compact&theme=radical)
 
----
-
-If you'd like tweaks — provide short project descriptions or a preferred stats theme and I'll update this for you.
+.

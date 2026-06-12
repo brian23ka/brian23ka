@@ -1,4 +1,5 @@
-# Brian Kaloki Ngenye
+
+![Brian Kaloki Ngenye](https://img.shields.io/badge/-Brian%20Kaloki%20Ngenye-00FFF7?style=for-the-badge&logo=github&logoColor=black)
 
 > Certified Software Engineer & Computer Scientist
 
@@ -8,7 +9,7 @@ I design and deliver resilient, scalable applications and developer tooling. I f
 
 🔭 Current: Wavify (scalable audio platform), Triplay (synchronized media experiences)
 
-🌐 Portfolio: https://your-portfolio.com • GitHub: https://github.com/brian23ka
+🌐 Portfolio: https://portfolio-zeta-coral.vercel.app/ • GitHub: https://github.com/brian23ka
 
 ---
 
@@ -20,15 +21,17 @@ I combine strong computer science fundamentals with practical product experience
 
 ---
 
+
 ## Technical Skills
 
-- Languages: Dart, JavaScript, TypeScript, Python
+- Languages: JavaScript, TypeScript, Python, Dart
+- Frameworks & Platforms: React, Flutter
 - Backend: Node.js, RESTful APIs, microservices
-- Frontend: React, accessible and performant UIs
+- Frontend: accessible and performant UIs
 - Data & Storage: PostgreSQL, caching, analytics
 - DevOps: Docker, CI/CD, monitoring and logging
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
@@ -50,9 +53,10 @@ I contribute to projects that improve developer workflows and observability. I p
 
 ---
 
+
 ## Contact
 
-- Portfolio: https://your-portfolio.com
+- Portfolio: https://portfolio-zeta-coral.vercel.app/
 - GitHub: https://github.com/brian23ka
 - Email: your.email@example.com
 

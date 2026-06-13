@@ -24,8 +24,8 @@
 ## My projects
 
 - **Wavify** — Audio streaming/processing app. https://github.com/brian23ka/wavify
-- **Triplay** — Collaborative media player. https://github.com/brian23ka/triplay
-- **Pure Scents** — E-commerce site for fragrances. https://github.com/brian23ka/pure-scents
+- **Triplay** — Fun games to play to kill boredom. https://github.com/brian23ka/triplay
+- **Pure Scents** — E-commerce site for perfumess. https://github.com/brian23ka/pure-scents
 - **Expanse Tracker** — Personal finance & expense tracker. https://github.com/brian23ka/expanse-tracker
 
 ## My GitHub Stats
@@ -38,10 +38,10 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brian23ka&theme=react-dark)
 
-![Snake animation](https://raw.githubusercontent.com/brian23ka/brian23ka/output/github-contribution-grid-snake.svg)
+
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=brian23ka&theme=radical)
+
 
 
 

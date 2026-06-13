@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=brian23ka&color=blue)
+
 ![Brian Kaloki Ngenye](https://img.shields.io/badge/-Brian%20Kaloki%20Ngenye-00FFF7?style=for-the-badge&logo=github&logoColor=black)
 
 > Certified Software Engineer & Computer Scientist — building reliable, mobile applications.
@@ -35,5 +35,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian23ka&layout=compact&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=brian23ka&theme=radical)](https://git.io/streak-stats)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brian23ka&theme=react-dark)
+
+![Snake animation](https://raw.githubusercontent.com/brian23ka/brian23ka/output/github-contribution-grid-snake.svg)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=brian23ka&theme=radical)
+
 
 

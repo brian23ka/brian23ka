@@ -34,6 +34,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian23ka&layout=compact&theme=radical)
 
-https://streak-stats.demolab.com/?user=brian23ka&theme=radical&utm_source=chatgpt.com
+[![GitHub Streak](https://streak-stats.demolab.com?user=brian23ka&theme=radical)](https://git.io/streak-stats)
 
 

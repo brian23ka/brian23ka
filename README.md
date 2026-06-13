@@ -28,6 +28,8 @@
 - **Pure Scents** — E-commerce site for perfumess. https://github.com/brian23ka/pure-scents
 - **Expanse Tracker** — Personal finance & expense tracker. https://github.com/brian23ka/expanse-tracker
 
+NB **To access my projects kindly visit my portfolio**
+
 ## My GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=brian23ka&show_icons=true&theme=radical)

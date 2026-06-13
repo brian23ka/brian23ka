@@ -1,4 +1,4 @@
-
+![Profile Views](https://komarev.com/ghpvc/?username=brian23ka&color=blue)
 ![Brian Kaloki Ngenye](https://img.shields.io/badge/-Brian%20Kaloki%20Ngenye-00FFF7?style=for-the-badge&logo=github&logoColor=black)
 
 > Certified Software Engineer & Computer Scientist — building reliable, mobile applications.

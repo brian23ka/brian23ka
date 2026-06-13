@@ -23,10 +23,10 @@
 
 ## My projects
 
-- **Wavify** — Audio streaming/processing app. https://github.com/brian23ka/wavify
-- **Triplay** — Fun games to play to kill boredom. https://github.com/brian23ka/triplay
-- **Pure Scents** — E-commerce site for perfumess. https://github.com/brian23ka/pure-scents
-- **Expanse Tracker** — Personal finance & expense tracker. https://github.com/brian23ka/expanse-tracker
+- **Wavify** — Audio streaming/processing app. 
+- **Triplay** — Fun games to play to kill boredom. 
+- **Pure Scents** — E-commerce site for perfumes.
+- **Expanse Tracker** — Personal finance & expense tracker. 
 
 NB **To access my projects kindly visit my portfolio**
 

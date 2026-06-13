@@ -1,15 +1,15 @@
 
 ![Brian Kaloki Ngenye](https://img.shields.io/badge/-Brian%20Kaloki%20Ngenye-00FFF7?style=for-the-badge&logo=github&logoColor=black)
 
-> Certified Software Engineer & Computer Scientist — building reliable, user-first applications.
+> Certified Software Engineer & Computer Scientist — building reliable, mobile applications.
 
 - 🔭 Current: Wavify, Triplay, Pure Scents, and Expanse Tracker
 - 🌱 Learning: advanced distributed systems and ML-driven product features
-- 👯 Open to: collaborating on backend systems, developer tooling, and scalable web apps
+- 👯 Open to: collaborating on backend systems, developer tooling, and scalable web apps & mobile apps
 - 💬 Ask me about: system design, full‑stack development, and performance optimization
 - 📫 Reach me: https://github.com/brian23ka • Portfolio: https://portfolio-zeta-coral.vercel.app/
 
-## Skills
+
 
 ## Skills
 
@@ -35,4 +35,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian23ka&layout=compact&theme=radical)
 
-.
+

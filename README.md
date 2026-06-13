@@ -28,10 +28,12 @@
 - **Pure Scents** — E-commerce site for fragrances. https://github.com/brian23ka/pure-scents
 - **Expanse Tracker** — Personal finance & expense tracker. https://github.com/brian23ka/expanse-tracker
 
-## GitHub Stats
+## My GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=brian23ka&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian23ka&layout=compact&theme=radical)
+
+https://streak-stats.demolab.com/?user=brian23ka&theme=radical&utm_source=chatgpt.com
 
 

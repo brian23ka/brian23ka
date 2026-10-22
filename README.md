@@ -3,7 +3,7 @@
 
 > Certified Software Engineer & Computer Scientist — building reliable, mobile applications.
 
-- 🔭 Current: Wavify, Triplay, Pure Scents, and Expanse Tracker
+- 🔭 Current: Wavify, Triplay, Pure Scents, and Expense Tracker
 - 🌱 Learning: advanced distributed systems and ML-driven product features
 - 👯 Open to: collaborating on backend systems, developer tooling, and scalable web apps & mobile apps
 - 💬 Ask me about: system design, full‑stack development, and performance optimization
